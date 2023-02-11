@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "lib": ["ES6", "DOM"],
+    "target": "ES5",
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "skipLibCheck": true,
+    "moduleResolution": "Node",
+    "esModuleInterop": true,
+    "noImplicitAny": false,
+  },"exclude": [
+    "./dist", "node_modules" , "spic"
+  ]
+}

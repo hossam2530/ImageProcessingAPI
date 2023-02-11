@@ -1,0 +1,5 @@
+gallary
+node_modules
+dist
+
+*.html
